@@ -1,0 +1,80 @@
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\bin\Debug\SharpMonoInjector.dll
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\random ai things\GTAG\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\SharpMonoInjector.dll
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Downloads\SharpMonoInjector.Console\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\veron\Desktop\Repo Cheato\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\SharpMonoInjector.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\Repo Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\SharpMonoInjector.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Buffers.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Memory.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Buffers.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Memory.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe.config
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsF.A1EEDF9B.Up2Date
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\veron\Desktop\Gtag Inject GUI\Injector\Encryptic Injector\Menu\GTAG Injector\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
